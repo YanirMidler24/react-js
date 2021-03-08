@@ -1,0 +1,50 @@
+.border{
+    width: 300px;
+    border: 2px solid black;
+    border-width: 3px;
+    }
+.buttons
+{
+    background-color: yellow;
+    border: 2px solid black;
+}
+.buttonOhterData
+{
+    background-color: gray;
+    margin-right: 100px;
+}
+.margin
+{
+    margin-right: 50px;
+}
+.OtherDataBackGround
+{
+    background-color: gray;
+}
+.TodosDivBackGroung
+{
+    background-color: orange;
+}
+.redStyle
+{
+    width: 300px;
+    border: 2px solid red;
+    border-width: 3px;
+    
+}
+.greenStyle
+{
+    width: 300px;
+    border: 2px solid green;
+    border-width: 3px;
+    
+}
+.container{
+    display: flex;
+}
+.fixed{
+    width: 200px;
+}
+.flex-item{
+    flex-grow: 1;
+}
